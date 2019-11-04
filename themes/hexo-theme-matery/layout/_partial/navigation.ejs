@@ -7,6 +7,12 @@
     menuMap.set("About", "关于");
     menuMap.set("Contact", "留言板");
     menuMap.set("Friends", "友情链接");
+
+    menuMap.set("Medias", "爱好");
+    menuMap.set("Musics", "音乐");
+    menuMap.set("Movies", "视频");
+    menuMap.set("Books", "书籍");
+    menuMap.set("Galleries", "相册");
 %>
 
 <a href="#" data-target="mobile-nav" class="sidenav-trigger button-collapse"><i class="fas fa-bars"></i></a>
@@ -36,7 +42,9 @@
           <% if (childrenLink.icon && childrenLink.icon.length > 0) { %>
           <i class="<%- childrenLink.icon %>" style="margin-top: -20px; zoom: 0.6;"></i>
           <% } %>
-          <span><%- childrenLink.name %></span>
+
+          <span><%- (config.language === 'zh-CN' && menuMap.has(childrenLink.name)) ? menuMap.get(childrenLink.name) : childrenLink.name %></span>
+
         </a>
       </li>
       <% } %>
