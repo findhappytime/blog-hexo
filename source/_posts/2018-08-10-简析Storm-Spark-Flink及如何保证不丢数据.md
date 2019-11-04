@@ -5,7 +5,7 @@ date: 2018-08-10 19:00:00
 author: 张曙
 # img: /source/images/xxx.jpg
 top: false
-cover: true
+cover: false
 coverImg: /images/1.jpg
 toc: false
 mathjax: false
