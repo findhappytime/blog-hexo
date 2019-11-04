@@ -1,16 +1,16 @@
 [{
-	"name": "五月雨变奏电音",
-	"artist": "AnimeVibe",
-	"url": "http://xxx.com/music1.mp3",
-	"cover": "http://xxx.com/music-cover1.png"
+	"name": "四季歌",
+	"artist": "汤旭",
+	"url": "/medias/music/sijige.mp3",
+	"cover": "/medias/music/sijige.jpeg"
 }, {
-	"name": "Take me hand",
-	"artist": "DAISHI DANCE,Cecile Corbel",
-	"url": "/medias/music/music2.mp3",
-	"cover": "/medias/music/cover2.png"
-}, {
-	"name": "Shape of You",
-	"artist": "J.Fla",
-	"url": "http://xxx.com/music3.mp3",
-	"cover": "http://xxx.com/music-cover3.png"
+	"name": "父亲写的散文诗",
+	"artist": "许飞",
+	"url": "/medias/music/fuqinxidesanwenshi.mp3",
+	"cover": "/medias/music/fuqinxidesanwenshi.jpeg"
+},{
+	"name": "月光",
+	"artist": "李健",
+	"url": "/medias/music/yueguang.flac",
+	"cover": "/medias/music/yueguang.jpeg"
 }]
