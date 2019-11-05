@@ -92,7 +92,7 @@ video:
   enable: true
   showTitle: true
   title: 精彩视频
-  url: # 必填
+  url: https://vdianying.cc/play/3818-1.html # 必填
   pic:
   thumbnails:
   height: # 如：400
