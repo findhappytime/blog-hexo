@@ -37,9 +37,11 @@ body {
     background-color: #eaeaea;
     margin: 0;
     color: #34495e;
+    font-family: -apple-system,SF UI Text,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,sans-serif;
 }
 
 h1 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin: 48px 0 22px -5px;
     font-size: 2.0rem;
     font-weight: bold;
@@ -47,6 +49,7 @@ h1 {
 }
 
 h2 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin: 42px 0 18px -5px;
     font-size: 1.8rem;
     font-weight: bold;
@@ -54,6 +57,7 @@ h2 {
 }
 
 h3 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin: 38px 0 15px -4px;
     font-size: 1.6rem;
     font-weight: bold;
@@ -61,6 +65,7 @@ h3 {
 }
 
 h4 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin: 32px 0 12px -4px;
     font-size: 1.45rem;
     font-weight: bold;
@@ -68,6 +73,7 @@ h4 {
 }
 
 h5 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin: 28px 0 8px -4px;
     font-size: 1.2rem;
     font-weight: bold;
@@ -75,6 +81,7 @@ h5 {
 }
 
 h6 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
     margin: 22px 0 4px -4px;
     font-size: 1.1rem;
     line-height: 1.1rem;
@@ -1207,6 +1214,7 @@ article .article-tags .chip {
     display: block;
     padding-left: 2em !important;
     word-spacing: 0.05rem;
+    border-left: .4rem solid #0fcab5;
 }
 
 #articleContent ul li,
