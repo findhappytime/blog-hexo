@@ -20,3 +20,17 @@ hexo g == hexo generate
 hexo s == hexo server
 hexo d == hexo deploy
 ```
+
+
+本地展示命令
+```
+hexo clean
+hexo generate
+hexo server
+```
+上线部署命令
+```
+hexo clean
+hexo generate
+hexo deploy
+```
